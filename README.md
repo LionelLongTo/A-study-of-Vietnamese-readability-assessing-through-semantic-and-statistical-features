@@ -9,4 +9,4 @@ Through experiments with SVM, Random Forest, and Extra Trees, our joint approach
 
 This project sets the stage for advancing research in Vietnamese text complexity assessment and demonstrates the adaptability of advanced language models in this context
 
-You can find dataset here: https://drive.google.com/drive/folders/1k_ob33fFEoEZDLsq2XbR6vMYUHbJdWsY?usp=drive_link
+You can find the dataset here: https://drive.google.com/drive/folders/1k_ob33fFEoEZDLsq2XbR6vMYUHbJdWsY?usp=drive_link
